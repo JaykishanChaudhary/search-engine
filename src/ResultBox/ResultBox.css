@@ -1,0 +1,36 @@
+#resultbox{
+    margin-top: 10rem;
+    margin-left: 28rem;
+    height: 20rem;
+    width: 50rem;
+    border: solid 1px;
+    border-radius: 10px;
+    background-color: rgb(232, 168, 227);
+}
+
+h3{
+    margin-left: -35rem;
+}
+
+
+#exloc{
+    display: flex;
+    flex-direction: row wrap;
+    gap: 8rem;
+    margin-left: 2.3rem;
+}
+
+#jobdescription{
+    margin-left: 2.3rem;
+    text-align:left;
+}
+
+#keyskills{
+    margin-left: 2.3rem;
+    text-align:left;
+}
+
+#applybutton{
+    margin-left: -6rem;
+    text-align:left;
+}
